@@ -7,6 +7,8 @@
 - <a href="http://www.linkedin.com/in/yalamanchi-poshith-kumar-522b89212" title="My linkedin profile">Linkedin</a>
 - <a href="https://medium.com/@poshithkumar999" title="You'll find my medium blogs here">Medium</a>
 - <a href="https://poshith24.hashnode.dev/" title="You'll find my hashnode blogs here">Hashnode</a>
+- blogs -> <a href="https://poshith24.hashnode.dev/html-part-1">First part of html</a>
+- <a href="https://poshith24.hashnode.dev/html-part-2">Second part of html</a>
 
 <!---
 Poshith24/Poshith24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
